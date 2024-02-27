@@ -1,4 +1,0 @@
-db_url=jdbc:mysql://localhost:3306/ctsjwtuserdb?useSSL=true&&serverTimezone=UTC
-db_username=root
-db_password=Root@123
-db_driver=com.mysql.cj.jdbc.Driver
